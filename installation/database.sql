@@ -29,8 +29,8 @@ INSERT INTO Image VALUES('1', 'sample1', 'http://www.flickr.com/photos/glorevenh
 INSERT INTO Image VALUES('2', 'sample1', 'http://www.flickr.com/photos/glorevenhite/5476176810/','1','1');
 INSERT INTO Image VALUES('3', 'sample1', 'http://www.flickr.com/photos/glorevenhite/5475579743/','1','1');
 
-INSERT INTO Category VALUES('1','Collection 1', 'Something belongs to collection 1');
-INSERT INTO Category VALUES('2','Collection 2', 'Something belongs to collection 2');
+INSERT INTO Collection VALUES('1','Collection 1', 'Something belongs to collection 1');
+INSERT INTO Collection VALUES('2','Collection 2', 'Something belongs to collection 2');
 
 
 
